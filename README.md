@@ -1,3 +1,3 @@
 # simpleChatAppSocketIO
 ## Simple chat app using Socket.IO 
-## just for fun
+## Just for fun
